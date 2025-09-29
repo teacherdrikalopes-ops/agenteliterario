@@ -107,93 +107,103 @@ Usar metáforas, imagens sensoriais e referências literárias para dar profundi
   ],
   "resumo": "Mariana, 29 anos, jovem mulher urbana, leitora apaixonada, busca leveza e inspiração para ler mais e transformar os livros em parte de sua rotina aconchegante. Ela está no Instagram e YouTube, procura dicas práticas e acolhimento, e se conecta com marcas e criadores que passam sensação de bem-estar e pertencimento."
 }
-1. Pilares de Conteúdo
-1. Inspiração Literária Aconchegante
-
-Objetivo: despertar o desejo de leitura de forma suave e emocional.
-
-Formato: trechos poéticos, trechos marcantes de livros, reflexões literárias.
-
-Exemplos:
-
-“Um trecho que parece um abraço para a alma” (Reels/Short).
-
-“Hoje me peguei pensando nessa frase… Do livro X, que conversa tanto com meu coração” (Post carrossel ou foto com quote).
-
-Frequência ideal:
-
-Instagram: 2 a 3 posts semanais (Reels e/ou carrosséis).
-
-YouTube Shorts: 1 por semana.
-
-Engajamento: finaliza com “Salva para revisitar esse trecho depois” ou “Qual frase te abraçou hoje?”
-
-2. Dicas Práticas & Salváveis
-
-Objetivo: entregar valor prático que sua persona quer salvar e voltar sempre.
-
-Formato: listas recomendando livros, recursos de leitura, hábitos.
-
-Exemplos:
-
-“3 livros leves para desestressar depois do trabalho” (Reels ou Carrossel).
-
-“5 apps que fazem a leitura no dia a dia ser mais gostosa” (IG carrossel).
-
-“Como planejar suas leituras do mês de forma simples” (YouTube vídeo curto).
-
-Frequência ideal:
-
-Instagram: 1 a 2 por semana (post carrossel ou Reels).
-
-YouTube Shorts: 1 por semana.
-
-Engajamento: “Marca aquela amiga que precisa dessa lista!” ou “Salva para lembrar depois!”
-
-3. Vida com Leitura — Rotina & Lifestyle
-
-Objetivo: mostrar como a leitura faz parte da rotina aconchegante e dona de casa, criando identificação.
-
-Formato: bastidores da leitura; cantinho de leitura; cafezinho e livro; sacolas de compra/resenhas rápidas.
-
-Exemplos:
-
-“Meu ritual de leitura noturna com chá, livro e luz suave” (Stories + Reels).
-
-“Quer ter um cantinho de leitura acolhedor? Olha como organizei o meu” (YouTube vídeo ou post foto).
-
-Frequência ideal:
-
-Instagram Stories: diário (pelo menos 3 por dia: rotina, momento leitura, interação).
-
-Instagram Feed: 1 post por semana.
-
-YouTube Vídeo longo: 1 vídeo por semana (se desejar incluir este tema).
-
-Engajamento: pergunte “Qual seu ritual de leitura? Conta pra mim!” ou faça enquetes no Stories.
-
-4. Reflexão & Comunidade
-
-Objetivo: fortalecer laços, aumentar comentários e sentido de pertencimento.
-
-Formato: perguntas abertas, lives, enquetes, debates leves.
-
-Exemplos:
-
-“O que te faz largar um livro no meio do caminho?” (Post com pergunta).
-
-Live: “Vamos conversar sobre livros que marcaram a nossa vida — qual foi o seu?”.
-
-Enquete no Stories: “Você lê pela manhã ou à noite?”.
-
-Frequência ideal:
-
-Instagram Feed: 1 post interativo por semana.
-
-Instagram Stories: 3 interações por semana.
-
-Lives no Instagram: 1 por mês.
-
-YouTube: incluir uma chamada à ação nos vídeos longos do tipo “conte aqui nos comentários...”.
-
-Engajamento: sempre responda pessoalmente aos comentários, crie uma hashtag como #EcosDasLetrasComDrika.
+{
+  "estrategia": "Pilares de Conteúdo para Ecos das Letras",
+  "pilares": [
+    {
+      "id": 1,
+      "nome": "Inspiração Literária Aconchegante",
+      "objetivo": "Despertar o desejo de leitura de forma suave e emocional.",
+      "formatos": [
+        "trechos poéticos",
+        "trechos marcantes de livros",
+        "reflexões literárias"
+      ],
+      "exemplos": [
+        "“Um trecho que parece um abraço para a alma” (Reels/Short)",
+        "“Hoje me peguei pensando nessa frase… Do livro X, que conversa tanto com meu coração” (Post carrossel ou foto com quote)"
+      ],
+      "frequencia_ideal": {
+        "instagram": "2 a 3 posts semanais (Reels e/ou carrosséis)",
+        "youtube_shorts": "1 por semana"
+      },
+      "engajamento": [
+        "Salva para revisitar esse trecho depois",
+        "Qual frase te abraçou hoje?"
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Dicas Práticas & Salváveis",
+      "objetivo": "Entregar valor prático que sua persona quer salvar e voltar sempre.",
+      "formatos": [
+        "listas recomendando livros",
+        "recursos de leitura",
+        "hábitos"
+      ],
+      "exemplos": [
+        "“3 livros leves para desestressar depois do trabalho” (Reels ou Carrossel)",
+        "“5 apps que fazem a leitura no dia a dia ser mais gostosa” (IG carrossel)",
+        "“Como planejar suas leituras do mês de forma simples” (YouTube vídeo curto)"
+      ],
+      "frequencia_ideal": {
+        "instagram": "1 a 2 por semana (post carrossel ou Reels)",
+        "youtube_shorts": "1 por semana"
+      },
+      "engajamento": [
+        "Marca aquela amiga que precisa dessa lista!",
+        "Salva para lembrar depois!"
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "Vida com Leitura — Rotina & Lifestyle",
+      "objetivo": "Mostrar como a leitura faz parte da rotina aconchegante e dona de casa, criando identificação.",
+      "formatos": [
+        "bastidores da leitura",
+        "cantinho de leitura",
+        "cafezinho e livro",
+        "sacolas de compra/resenhas rápidas"
+      ],
+      "exemplos": [
+        "“Meu ritual de leitura noturna com chá, livro e luz suave” (Stories + Reels)",
+        "“Quer ter um cantinho de leitura acolhedor? Olha como organizei o meu” (YouTube vídeo ou post foto)"
+      ],
+      "frequencia_ideal": {
+        "instagram_stories": "diário (pelo menos 3 por dia: rotina, momento leitura, interação)",
+        "instagram_feed": "1 post por semana",
+        "youtube_video_longo": "1 vídeo por semana (opcional)"
+      },
+      "engajamento": [
+        "Qual seu ritual de leitura? Conta pra mim!",
+        "enquetes no Stories"
+      ]
+    },
+    {
+      "id": 4,
+      "nome": "Reflexão & Comunidade",
+      "objetivo": "Fortalecer laços, aumentar comentários e sentido de pertencimento.",
+      "formatos": [
+        "perguntas abertas",
+        "lives",
+        "enquetes",
+        "debates leves"
+      ],
+      "exemplos": [
+        "“O que te faz largar um livro no meio do caminho?” (Post com pergunta)",
+        "Live: “Vamos conversar sobre livros que marcaram a nossa vida — qual foi o seu?”",
+        "Enquete no Stories: “Você lê pela manhã ou à noite?”"
+      ],
+      "frequencia_ideal": {
+        "instagram_feed_interativo": "1 post por semana",
+        "instagram_stories_interacoes": "3 interações por semana",
+        "lives_no_instagram": "1 por mês",
+        "youtube": "incluir chamada à ação nos vídeos longos"
+      },
+      "engajamento": [
+        "Sempre responda pessoalmente aos comentários",
+        "Crie uma hashtag como #EcosDasLetrasComDrika"
+      ]
+    }
+  ]
+}
